@@ -1,2 +1,2 @@
-# codewars
-This is a place for me post my codewars solutions 
+# Codewars
+This is a place for me post my codewars solutions in swift 
